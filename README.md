@@ -17,8 +17,8 @@ Icon | Character | Text
 ![Amnesiac](https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png) | **Amnesiac** | You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.
 ![Slayer](https://wiki.bloodontheclocktower.com/images/d/d3/Icon_slayer.png) | **Slayer** | Once per game, during the day, publicly choose a player: if they are the Demon, they die.
 ![Alchemist](https://wiki.bloodontheclocktower.com/images/5/54/Icon_alchemist.png) | **Alchemist** | You have a not-in-play Minion ability.
-![Sage](https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png) | **Sage** | If the Demon kills you, you learn that it is 1 of 2 players.
 ![Virgin](https://wiki.bloodontheclocktower.com/images/d/d3/Icon_virgin.png) | **Virgin** | The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.
+![Banshee](https://wiki.bloodontheclocktower.com/images/6/63/Icon_banshee.png) | **Banshee** | If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.
 
 ### Outsider
 
