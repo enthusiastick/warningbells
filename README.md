@@ -2,6 +2,8 @@
 
 **JSON Link:** https://raw.githubusercontent.com/enthusiastick/warningbells/main/warning_bells.json
 
+*& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
+
 ### Townsfolk
 
 Icon | Character | Text
